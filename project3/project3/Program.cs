@@ -10,10 +10,12 @@ namespace project3
     {
         static void Main(string[] args)
         {
-            
-            for (int i = 0; i < 5; i++) {
+
+            for (int i = 0; i < 5; i++)
+            {
                 Console.WriteLine("Hola mon");
             }
+            Console.ReadLine();
         }
     }
 }
