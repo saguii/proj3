@@ -10,9 +10,9 @@ namespace project3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola mon");
-            Console.WriteLine("Hola uop");
-            Console.WriteLine("Hola sgv");
+            for (int i = 0; i < 5; i++) {
+                Console.WriteLine("Hola mon");
+            }
         }
     }
 }
