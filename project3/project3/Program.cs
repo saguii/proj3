@@ -10,7 +10,7 @@ namespace project3
     {
         static void Main(string[] args)
         {
-            //comentari
+            
             for (int i = 0; i < 5; i++) {
                 Console.WriteLine("Hola mon");
             }
