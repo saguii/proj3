@@ -12,9 +12,8 @@ namespace project3
         {
             //comentari
             for (int i = 0; i < 5; i++) {
-                Console.WriteLine("Hola mon " + i);
+                Console.WriteLine("Hola mon");
             }
-            Console.ReadLine();
         }
     }
 }
